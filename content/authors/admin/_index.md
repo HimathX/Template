@@ -1,43 +1,30 @@
----
 title: Sasandu Garusinghe
-
-# Name pronunciation (optional)
-# name_pronunciation: Sasandu Garusinghe
-
-superuser: true
-highlight_name: true
-role: Electronic and Telecommunication Undergraduate
-
+role: Electrical Engineering Student
 organizations:
-  - name: University Of Moratuwa
-    url: https://openai.com/
+  - name: University of Moratuwa
+    url: https://uom.lk/
 
 profiles:
-  - icon: at-symbol
-    url: 'mailto:SasanduG@gmail.com'
-    label: E-mail Me
-
-interests:
-  - Physics
-  - Telecommunication
-  - Mathematics
+  - icon: brands/linkedin
+    url: https://linkedin.com/in/yourprofile
+  - icon: brands/github
+    url: https://github.com/yourusername
 
 education:
-  - area: Electronics and Telecommunication 
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: Present
+  - area: BSc Electrical Engineering
+    institution: University of Moratuwa
+    date_start: 2020
+    date_end: 2024
 
-  - area: A/L
-    institution: Bandaranyake College, Gampaha
-    date_start: 2019-01-01
-    date_end: 2021-12-31
-    summary: |
-      GPA: 3 As
+interests:
+  - Power Systems
+  - Magnetic Materials
+  - Renewable Energy
 
-  - area: O/L
-    institution: Bandaranyake College, Gampaha
-    date_start: 2016-01-01
-    date_end: 2018-12-31
-    summary: |
-      GPA: 9 As
+skills:
+  - name: Technical
+    items:
+      - name: MATLAB
+        icon: code-bracket
+      - name: Circuit Design
+        icon: bolt
